@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595393807901",
+    "project_id": "trackerme-33281",
+    "storage_bucket": "trackerme-33281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595393807901:android:b6ba91dd87730c41ee68f4",
+        "android_client_info": {
+          "package_name": "com.trackerme.trackerme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXg_xfCpWTP3jveXXcQ-7tovrW_w7zWA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
